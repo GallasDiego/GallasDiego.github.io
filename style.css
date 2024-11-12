@@ -76,3 +76,15 @@ button:hover {
     border: 3px solid #7b3e19;
     border-radius: 10px;
 }
+footer {
+    margin-top: 40px;
+    padding: 10px;
+    text-align: center;
+    font-size: 0.9em;
+    color: #4b2e00;
+    background-color: #f0e6d6;
+    border-top: 1px solid #7b3e19;
+    width: 100%;
+    max-width: 600px;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.2);
+}
