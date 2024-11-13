@@ -1,14 +1,14 @@
 const questions = [
-    { question: "¿Qué harías si encuentras un reino en problemas?", options: ["Buscaría una solución mágica", "Me ofrecería a proteger a sus habitantes", "Tomaría la responsabilidad de guiar al reino", "Organizaría un evento para animar a la gente", "Ayudaría desde las sombras con astucia y diplomacia"] },
-    { question: "¿Qué valoras más en una amistad?", options: ["La lealtad y el compromiso", "El poder de compartir conocimientos", "La sinceridad y la nobleza", "La alegría y la diversión", "La confianza y la empatía"] },
-    { question: "Si pudieras elegir un poder especial, ¿cuál sería?", options: ["La sabiduría arcana", "La fuerza inquebrantable", "La capacidad de liderazgo supremo", "La habilidad de hacer reír a todos", "El encanto y la persuasión"] },
+   { question: "¿que signo sos?", options: ["aire(geminis-libra y acuario)", "fuego(aries-leo y sagitario)", "tierra(tauro- virgo y capricornio)", "nose", "agua(cancer-escorpio y piscis)"] },
+    { question: "¿elegia alguien de la farandula argentina" , options: ["darim-soldan", "mago sin dientes ", "ricardo ford ", "lizy tagliani", "susana gimenez "] },
+    { question: "¿cual es tu estacion favorita?" options: ["invierno", "verano", "primavera ", "todas ", "otoño"] },
     { question: "¿Cuál es tu ambiente ideal?", options: ["Una biblioteca llena de antiguos libros y hechizos", "El campo de batalla defendiendo lo que amo", "Un majestuoso salón de trono", "Una sala de festejos con muchas risas", "Un jardín secreto lleno de paz y belleza"] },
-    { question: "¿Qué lema sientes más cercano a ti?", options: ["El conocimiento es poder", "Valor y honor siempre", "Con gran poder viene gran responsabilidad", "La risa es la mejor medicina", "La elegancia en la palabra, la fuerza en la calma"] },
-    { question: "¿Cómo reaccionas ante un conflicto?", options: ["Uso la razón y trato de entender todas las perspectivas", "Actúo rápidamente para defender a los inocentes", "Evalúo y tomo la mejor decisión para todos", "Uso el humor para aliviar tensiones", "Intervengo con calma y diplomacia"] },
-    { question: "¿Qué tipo de actividad disfrutas más?", options: ["Experimentar y descubrir secretos ocultos", "Entrenar y mejorar mis habilidades", "Tomar decisiones importantes y estratégicas", "Hacer reír y entretener a los demás", "Escuchar y aconsejar con empatía"] },
-    { question: "¿Qué preferirías usar en una ocasión especial?", options: ["Una túnica con símbolos místicos", "Una armadura pulida", "Un manto real con emblemas de poder", "Un traje colorido y extravagante", "Un vestido o traje elegante y sobrio"] },
-    { question: "¿Qué piensas sobre el destino?", options: ["Es una energía que puedo comprender y guiar", "Creo que el destino favorece a los valientes", "Es mi deber darle forma a través de mis decisiones", "La vida es impredecible, y eso es lo divertido", "Creo en la armonía natural de los acontecimientos"] },
-    { question: "¿Cuál sería tu rol en un grupo?", options: ["El sabio y consejero", "El defensor y protector", "El líder que guía a todos", "El que anima y levanta el ánimo", "El que media y mantiene la paz"] }
+    { question: "¿que grupos de cantantes elegis?", options: ["queen-tan bionica-dillom,coldplay- wos-soda stereo- miloj", "miley cyrus-fito paez-airbag- lali-trueno", "rihanna-travis scott-ysy a-lady gaga- duki-cazzu", "miranda-katy perry-dua lipa-bruno mars-harry style-" ,"taylor swift-conan gray- emlia mernes- olivia rodrigo- one dirreccion-tini"] },
+    { question: "¿que comida te gusta mas?", options: ["empanadas ", "milanesa con papafritas", "asado con ensalada", "pizza", "ñoquis con salsa boloñesa "] },
+    { question: "¿elegi una pelicula/serie?", options: ["harry potter-doctor stranger", "el señor de los anillos-games of thrones", "the crown-star wars", "son como niños- casados con hijos", "mean girls-bridgerton"] },
+    { question: "¿que jugador de la seleccion argentina sos?", options: ["lizandro martinez", "julian alvarez", "messi", "de paul", "otamendi"] },
+    { question: "¿que gusto de helado sos?", options: ["crema del cielo-banana split", "dulce de leche-chocolate", "vainilla", "quinostos al wisky", "frutilla-dulce de leche granizado "] },
+    { question: "elegi un afrase de la farandula argentina", options: ["es magico", "tres empanadas", "miamiiiii", "dinosaurios vivos!!!!!!", "como te ven te tratan,si te va mal te maltratan y si te ven bien te contratan "] }
 ];
 
 const optionRoles = [
