@@ -1,7 +1,7 @@
 const questions = [
    { question: "¿que signo sos?", options: ["aire(geminis-libra y acuario)", "fuego(aries-leo y sagitario)", "tierra(tauro- virgo y capricornio)", "nose", "agua(cancer-escorpio y piscis)"] },
     { question: "¿elegia alguien de la farandula argentina" , options: ["darim-soldan", "mago sin dientes ", "ricardo ford ", "lizy tagliani", "susana gimenez "] },
-    { question: "¿cual es tu estacion favorita?" options: ["invierno", "verano", "primavera ", "todas ", "otoño"] },
+    { question: "¿cual es tu estacion favorita?" ,options: ["invierno", "verano", "primavera ", "todas ", "otoño"] },
     { question: "¿Cuál es tu ambiente ideal?", options: ["Una biblioteca llena de antiguos libros y hechizos", "El campo de batalla defendiendo lo que amo", "Un majestuoso salón de trono", "Una sala de festejos con muchas risas", "Un jardín secreto lleno de paz y belleza"] },
     { question: "¿que grupos de cantantes elegis?", options: ["queen-tan bionica-dillom,coldplay- wos-soda stereo- miloj", "miley cyrus-fito paez-airbag- lali-trueno", "rihanna-travis scott-ysy a-lady gaga- duki-cazzu", "miranda-katy perry-dua lipa-bruno mars-harry style-" ,"taylor swift-conan gray- emlia mernes- olivia rodrigo- one dirreccion-tini"] },
     { question: "¿que comida te gusta mas?", options: ["empanadas ", "milanesa con papafritas", "asado con ensalada", "pizza", "ñoquis con salsa boloñesa "] },
